@@ -1,5 +1,6 @@
 #import "IntercomFlutterPlugin.h"
 #import <Intercom/Intercom.h>
+#import <UserNotifications/UserNotifications.h>
 
 id unread;
 
